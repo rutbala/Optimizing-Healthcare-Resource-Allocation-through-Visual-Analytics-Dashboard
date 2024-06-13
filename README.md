@@ -7,7 +7,7 @@ staff, this initiative leverages data-driven insights to enhance patient
 care quality, improve staff working conditions, and ensure economic 
 sustainability of healthcare institutions
 
-1 INSIGHT NEEDS
+INSIGHT NEEDS:-
 
 There are various insight needs and they are:
 
@@ -27,7 +27,7 @@ compromising the quality of patient care.
 
 
 
-2 DAT A ACQUISITION
+DATA ACQUISITION:-
 
 The various data that is contained in my dataset are:
 
@@ -45,7 +45,7 @@ history.
 
 
 
-2.1 Descriptive Statistics of Data
+DESCREPTIVE STATISTICS OF DATA:-
 
 Total Records: 100,000 patient admissions.
 
@@ -59,7 +59,7 @@ Patient Age Range: 0-100 years.
 
 
 
-3 ANALYSIS METHODS
+ANALYSIS METHODS:-
 
 There are three types of analysis method that I have used to address 
 my stakeholder’s insight needs.
