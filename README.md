@@ -1,4 +1,4 @@
-# Optimizing-Healthcare-Resource-Allocation-through-Visual-Analytics-Dashboard
+# Optimizing-Healthcare-Resource-Allocation-through-Visual-Analytics-Dashboard | Network analysis, Data-driven insights, Python
 
 The project “Optimizing Healthcare Resource Allocation through 
 Visual Analytics” addresses the critical need for efficient resource 
@@ -25,8 +25,6 @@ patient flow.
 4.Cost Control: Finding cost-saving opportunities without 
 compromising the quality of patient care.
 
-
-
 DATA ACQUISITION:-
 
 The various data that is contained in my dataset are:
@@ -43,8 +41,6 @@ and equipment.
 4.Patient Demographics: Information on age, gender, and medical 
 history.
 
-
-
 DESCREPTIVE STATISTICS OF DATA:-
 
 Total Records: 100,000 patient admissions.
@@ -56,8 +52,6 @@ Resource: 500 beds, 100 rooms, 50 types of equipment.
 Average Daily Admissions: 100 patients.
 
 Patient Age Range: 0-100 years.
-
-
 
 ANALYSIS METHODS:-
 
@@ -72,3 +66,5 @@ resource usage.
 
 3.Network Analysis: Exploring patient flow and staff-resource 
 interactions.
+
+![Screenshot 2024-08-26 114554](https://github.com/user-attachments/assets/f1fd7daf-1cd5-4cd8-ab40-ceb5a0886c5f)
