@@ -67,4 +67,5 @@ resource usage.
 3.Network Analysis: Exploring patient flow and staff-resource 
 interactions.
 
-![Screenshot 2024-08-26 114554](https://github.com/user-attachments/assets/f1fd7daf-1cd5-4cd8-ab40-ceb5a0886c5f)
+![Screenshot 2024-08-26 120046](https://github.com/user-attachments/assets/2b0121ed-cb7b-4bf7-b0f8-e98c5f4047b2)
+
